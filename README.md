@@ -1,3 +1,3 @@
-# Frontend Mentor Junior Challenge 
+# Frontend Mentor Challenge 
 
-[Try out my tip calculator here](https://reemhd.github.io/tip-calculator/)
+[Try out my tip calculator I created for the challenge](https://reemhd.github.io/tip-calculator/)
